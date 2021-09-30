@@ -11,23 +11,23 @@ Hi, I am Ninad Kalanke, I am currently a Third year student at [IIIT Gwalior](ht
 - 📫 Reach me here  Email: ninadkalanke@gmail.com.
 
 **Tools and Softwares:**  
-<img src="https://img.icons8.com/color/40/000000/git.png"/> <img src="https://img.icons8.com/fluency/40/000000/github.png"/>
-<img src="https://img.icons8.com/color/40/000000/gitlab.png"/> 
-<img src="https://img.icons8.com/color/40/000000/react-native.png"/> 
-<img src="https://img.icons8.com/color/40/000000/bootstrap.png"/> 
-<img src="https://img.icons8.com/color/40/000000/material-ui.png"/> 
-<img src="https://img.icons8.com/color/50/000000/nodejs.png"/> 
-<img src="https://img.icons8.com/color/40/000000/mongodb.png"/> 
-<img src="https://img.icons8.com/color/40/000000/heroku.png"/> 
+<img title="Git" src="https://img.icons8.com/color/40/000000/git.png"/> <img title="Github" src="https://img.icons8.com/fluency/40/000000/github.png"/>
+<img title="Gitlab" src="https://img.icons8.com/color/40/000000/gitlab.png"/> 
+<img title="Reactjs" src="https://img.icons8.com/color/40/000000/react-native.png"/> 
+<img title="Bootstrap 4" src="https://img.icons8.com/color/40/000000/bootstrap.png"/> 
+<img title="Material-UI" src="https://img.icons8.com/color/40/000000/material-ui.png"/> 
+<img title="Nodejs" src="https://img.icons8.com/color/50/000000/nodejs.png"/> 
+<img title="MongoDB database" src="https://img.icons8.com/color/40/000000/mongodb.png"/> 
+<img title="Heroku deployment" src="https://img.icons8.com/color/40/000000/heroku.png"/> 
 
 
 **Languages:**  
-<img src="https://img.icons8.com/color/40/000000/c-programming.png"/> <img src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/>
-<img src="https://img.icons8.com/fluency/40/000000/python.png"/> 
-<img src="https://img.icons8.com/color/40/000000/javascript.png"/> 
-<img src="https://img.icons8.com/color/40/000000/html-5--v1.png"/> 
-<img src="https://img.icons8.com/color/40/000000/css3.png"/> 
-<img src="https://img.icons8.com/color/40/000000/sql.png"/> 
+<img title="C" src="https://img.icons8.com/color/40/000000/c-programming.png"/> <img title="C++" src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/>
+<img title="Python" src="https://img.icons8.com/fluency/40/000000/python.png"/> 
+<img title="Javascript" src="https://img.icons8.com/color/40/000000/javascript.png"/> 
+<img title="HTML 5" src="https://img.icons8.com/color/40/000000/html-5--v1.png"/> 
+<img title="CSS 3" src="https://img.icons8.com/color/40/000000/css3.png"/> 
+<img title="SQL" src="https://img.icons8.com/color/40/000000/sql.png"/> 
 
 ![](https://komarev.com/ghpvc/?username=ninad-0408&color=dc143c)
 
