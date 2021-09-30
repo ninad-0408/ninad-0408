@@ -11,21 +11,18 @@ Hi, I am Ninad Kalanke, I am currently a Third year student at [IIIT Gwalior](ht
 - 📫 Reach me here   [email](ninadkalanke@gmail.com).
 
 **Tools and Softwares:**
-
 <img src="https://img.icons8.com/color/40/000000/git.png"/> <img src="https://img.icons8.com/fluency/40/000000/github.png"/>
 <img src="https://img.icons8.com/color/40/000000/gitlab.png"/>
 <img src="https://img.icons8.com/color/40/000000/react-native.png"/>
 <img src="https://img.icons8.com/color/40/000000/bootstrap.png"/>
-<img src="https://img.icons8.com/color/40/000000/material-ui.png"/>
-<img src="https://img.icons8.com/color/50/000000/nodejs.png"/>
+<img src="https://img.icons8.com/color/40/000000/material-ui.png"/> 
+<img src="https://img.icons8.com/color/50/000000/nodejs.png"/> 
 <img src="https://img.icons8.com/color/40/000000/mongodb.png"/>
 <img src="https://img.icons8.com/color/40/000000/heroku.png"/>
 
 
 **Languages:**
-
-<img src="https://img.icons8.com/color/40/000000/c-programming.png"/>
-<img src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/color/40/000000/c-programming.png"/> <img src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/>
 <img src="https://img.icons8.com/fluency/40/000000/python.png"/>
 <img src="https://img.icons8.com/color/40/000000/javascript.png"/>
 <img src="https://img.icons8.com/color/40/000000/html-5--v1.png"/>
