@@ -12,8 +12,7 @@ Hi, I am Ninad Kalanke, I am currently a Third year student at [IIIT Gwalior](ht
 
 **Tools and Softwares:**
 
-<img src="https://img.icons8.com/color/40/000000/git.png"/>
-<img src="https://img.icons8.com/fluency/40/000000/github.png"/>
+<img src="https://img.icons8.com/color/40/000000/git.png"/> <img src="https://img.icons8.com/fluency/40/000000/github.png"/>
 <img src="https://img.icons8.com/color/40/000000/gitlab.png"/>
 <img src="https://img.icons8.com/color/40/000000/react-native.png"/>
 <img src="https://img.icons8.com/color/40/000000/bootstrap.png"/>
