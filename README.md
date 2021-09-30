@@ -10,8 +10,7 @@ Hi, I am Ninad Kalanke, I am currently a Third year student at [IIIT Gwalior](ht
 - 💬 Ask me about MERN and C++.
 - 📫 Reach me here   [email](ninadkalanke@gmail.com).
 
-**Tools and Softwares:**
-
+**Tools and Softwares:**  
 <img src="https://img.icons8.com/color/40/000000/git.png"/> <img src="https://img.icons8.com/fluency/40/000000/github.png"/>
 <img src="https://img.icons8.com/color/40/000000/gitlab.png"/>
 <img src="https://img.icons8.com/color/40/000000/react-native.png"/>
@@ -22,8 +21,7 @@ Hi, I am Ninad Kalanke, I am currently a Third year student at [IIIT Gwalior](ht
 <img src="https://img.icons8.com/color/40/000000/heroku.png"/>
 
 
-**Languages:**
-
+**Languages:**  
 <img src="https://img.icons8.com/color/40/000000/c-programming.png"/> <img src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/>
 <img src="https://img.icons8.com/fluency/40/000000/python.png"/>
 <img src="https://img.icons8.com/color/40/000000/javascript.png"/>
