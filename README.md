@@ -29,4 +29,5 @@ Hi, I am Ninad Kalanke, I am currently a Third year student at [IIIT Gwalior](ht
 <img src="https://img.icons8.com/color/40/000000/css3.png"/> 
 <img src="https://img.icons8.com/color/40/000000/sql.png"/> 
 
+![](https://komarev.com/ghpvc/?username=ninad-0408&color=dc143c)
 
