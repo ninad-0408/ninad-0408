@@ -8,7 +8,7 @@ Hi, I am Ninad Kalanke, I am currently a Third year student at [IIIT Gwalior](ht
 - 👯 I’m looking to collaborate on Node.js.
 - 🤔 I’m looking for help with AWS.
 - 💬 Ask me about MERN and C++.
-- 📫 Reach me here  Email: ninadkalanke@gmail.com.
+- 📫 Reach me here  Email: [ninadkalanke@gmail.com](mailto:ninadkalanke@gmail.com).
 
 **Tools and Softwares:**  
 <img title="Git" src="https://img.icons8.com/color/40/000000/git.png"/> <img title="Github" src="https://img.icons8.com/fluency/40/000000/github.png"/>
