@@ -30,4 +30,7 @@ Hi, I am Ninad Kalanke, I am currently a Third year student at [IIIT Gwalior](ht
 <img title="SQL" src="https://img.icons8.com/color/40/000000/sql.png"/> 
 
 ![](https://komarev.com/ghpvc/?username=ninad-0408&color=dc143c)
+[![Ninad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninad-0408&show_icons=true&theme=radical)](https://github.com/ninad-0408/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninad-0408&hide=css,html&theme=tokyonight)
+![](https://komarev.com/ghpvc/?username=ninad-0408&color=dc143c)
 
