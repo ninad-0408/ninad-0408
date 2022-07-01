@@ -1,4 +1,4 @@
-### <div align="center"> Hi there, Its me Ninad Kalanke <img alt="gif" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="height: 40px"/></div>
+### <div align="center"> Hi there, Its me Ninad Kalanke </div>
 <hr/>
 
 Hi, I am Ninad Kalanke, I am currently a Third year student at [IIIT Gwalior](http://www.iiitm.ac.in/index.php/en/).
