@@ -4,7 +4,7 @@
 Hi, I am Ninad Kalanke, I am currently a Final year student at [IIIT Gwalior](http://www.iiitm.ac.in/index.php/en/).
 
 - 🔭 I’m currently working on Something Coming Soon.
-- 🌱 I’m currently learning React.js.
+- 🌱 I’m currently exploring Machine Learning and Deep Learning.
 - 👯 I’m looking to collaborate on Node.js.
 - 🤔 I’m looking for help with AWS.
 - 💬 Ask me about MERN and C++.
