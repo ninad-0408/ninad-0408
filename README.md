@@ -4,10 +4,10 @@
 Hi, I am Ninad Kalanke, I am currently a Final year student at [IIIT Gwalior](http://www.iiitm.ac.in/index.php/en/).
 
 - 🔭 I’m currently working on Self.
-- 🌱 I’m currently exploring Machine Learning and Deep Learning.
+- 🌱 I’m currently looking for Full time SDE opportunities.
 - 👯 I’m looking to collaborate on Node.js.
 - 🤔 I’m looking for help with AWS.
-- 💬 Ask me about MERN and C++.
+- 💬 Ask me about MERN, Python and C++.
 - 📫 Reach me here  Email: [ninadkalanke@gmail.com](mailto:ninadkalanke@gmail.com).
 
 **Tools and Softwares:**  
