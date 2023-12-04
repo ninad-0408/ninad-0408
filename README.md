@@ -4,13 +4,13 @@
 Hi, I am Ninad Kalanke, a B.tech(IT) graduate from [IIIT Gwalior](http://www.iiitm.ac.in/index.php/en/).
 
 - 🔭 I’m currently working on Self.
-- 🌱 I’m currently looking for Full time SDE opportunities.
+- 🌱 I’m currently looking for Full-time SDE opportunities.
 - 👯 I’m looking to collaborate on Node.js.
 - 🤔 I’m looking for help with AWS.
 - 💬 Ask me about MERN, Python and C++.
 - 📫 Reach me here  Email: [ninadkalanke@gmail.com](mailto:ninadkalanke@gmail.com).
 
-**Tools and Softwares:**  
+**Tools and Software:**  
 <img title="Git" src="https://img.icons8.com/color/40/000000/git.png"/> <img title="Github" src="https://img.icons8.com/fluency/40/000000/github.png"/>
 <img title="Gitlab" src="https://img.icons8.com/color/40/000000/gitlab.png"/> 
 <img title="Reactjs" src="https://img.icons8.com/color/40/000000/react-native.png"/> 
@@ -31,7 +31,5 @@ Hi, I am Ninad Kalanke, a B.tech(IT) graduate from [IIIT Gwalior](http://www.iii
 <img title="CSS 3" src="https://img.icons8.com/color/40/000000/css3.png"/> 
 <img title="SQL" src="https://img.icons8.com/color/40/000000/sql.png"/> 
 
-[![Ninad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninad-0408&show_icons=true&theme=radical)](https://github.com/ninad-0408/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninad-0408&hide=css,html&theme=tokyonight)
 ![](https://komarev.com/ghpvc/?username=ninad-0408&color=dc143c)
 
