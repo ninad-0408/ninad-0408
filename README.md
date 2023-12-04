@@ -1,7 +1,7 @@
 ### <div align="center"> Hi there, Its me Ninad Kalanke </div>
 <hr/>
 
-Hi, I am Ninad Kalanke, I am currently a Final year student at [IIIT Gwalior](http://www.iiitm.ac.in/index.php/en/).
+Hi, I am Ninad Kalanke, a B.tech(IT) graduate from [IIIT Gwalior](http://www.iiitm.ac.in/index.php/en/).
 
 - 🔭 I’m currently working on Self.
 - 🌱 I’m currently looking for Full time SDE opportunities.
